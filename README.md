@@ -1,2 +1,4 @@
 # Demo
-Demo for practise
+Demo for practise 
+
+A exercise for git and github.
